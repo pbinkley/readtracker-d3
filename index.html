@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.line {
+  fill: none;
+  stroke-width: 1.5px;
+}
+
+#upload {
+  border: 1px solid black;
+  margin: 1em;
+  padding: 1em;
+}
+#upload h2 {
+  margin-top: 0;
+}
+
+</style>
+
+<div id="upload">
+  <h2>Upload your readtracker.json file:</h2>
+  <input type='file' accept='text/json' onchange='openFile(event)'>
+</div>
+
+<svg width="960" height="500"></svg>
+
+<script src="//d3js.org/d3.v4.min.js"></script>
+
+<script>
+var openFile = function(event) {
+  // get readtracker.json from file input
+  var input = event.target;
+
+  var reader = new FileReader();
+  reader.onload = function(){
+    var text = reader.result;
+    // hide the upload div
+    var upload = document.getElementById('upload');
+    upload.style.display = 'none';
+    showChart('svg', text);
+  };
+  reader.readAsText(input.files[0]);
+};
+
+</script>
+
+<script src="readtracker-chart.js"></script>
