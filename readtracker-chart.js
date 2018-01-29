@@ -24,7 +24,7 @@ function showChart(selector, text) {
   // commas between objects, to create an array of
   // book objects
   if (text[0] == '{')
-    text = "[" + text.replace("}{", "},{") + "]" 
+    text = "[" + text.replace(/\}\{/g, "},{") + "]" 
   var data = JSON.parse(text);
 
   var books = data.map(function(d) {
