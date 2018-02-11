@@ -1,3 +1,10 @@
+function overlaps(r1, r2) {
+  return !(r2.x > (r1.x + r1.width) || 
+           (r2.x + r2.width) < r1.x || 
+           r2.y > (r1.y + r1.height) ||
+           (r2.y + r2.height) < r1.y);
+}
+
 function showChart(selector, text) {
   // selector is used to select the svg element; text contains
   // the content of readtracker.json (which might be ill-formed)
@@ -6,6 +13,10 @@ function showChart(selector, text) {
       width = svg.attr("width") - margin.left - margin.right,
       height = svg.attr("height") - margin.top - margin.bottom,
       g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  var foci = [],
+    labels = [];
+
 
   var parseTime = d3.timeParse("%Y-%m-%d");
 
@@ -31,7 +42,6 @@ function showChart(selector, text) {
     return {
       id: d['title'],
       values: d['sessions'].map(function(s) {
-        console.log(d['title'] + ": " + z(d['title']));
         return {
           colour: z(d['title']),
           date: new Date(new Date(s['timestamp']).setHours(0,0,0,0)), 
@@ -87,8 +97,11 @@ function showChart(selector, text) {
       .attr("d", function(d) { return line(d.values); })
       .style("stroke", function(d) { return z(d.id); });
 
+    var texts = [];
+    var bboxes = [];
     book.append("text")
       .attr("transform", function(d) {
+        // anchor is last data point
         anchor = d.values[d.values.length-1];
         tr = "translate(" + x(anchor.date) + "," + y(anchor.progress) + ")";
         return tr;
@@ -100,11 +113,56 @@ function showChart(selector, text) {
       .text(function(d) { 
         label = d.id;
         last = d.values[d.values.length-1];
-        console.log(last.date);
         if (last.progress == 1.0) label += " (finished " + monthdayformat(last.date) + ")";
+        texts.push(this);
         return label; 
-      });
+      })
+      .each(function() {
+        console.log(this.textContent);
+        // get original translate values and width values
+        transform = d3.select(this).attr('transform');
+        translate = transform.substring(transform.indexOf("(")+1, transform.indexOf(")")).split(",");
+        translate = [parseFloat(translate[0]), parseFloat(translate[1])]
+        bbox = this.getBBox();
 
+        // determine whether the text extends beyond the svg width
+        edge = translate[0] + bbox.width;
+        console.log('edge: ' + translate[0] + '+' + bbox.width + '=' + edge)
+
+        var xoffset = 0;
+        if (edge > width) {
+          xoffset = edge - width;
+          console.log("'" + this.textContent + "' overruns by " + (edge - width));
+        };
+
+        var finalbbox = {
+          "x": translate[0]-xoffset,
+          "y": translate[1],
+          "width": bbox.width,
+          "height": bbox.height
+        }
+        console.log("finalbbox");
+        console.log(finalbbox)
+
+        var yoffset = 0;
+        // look for overlap with previously positioned texts
+        bboxes.forEach(function(b){
+          if (overlaps(b, finalbbox)) {
+            console.log('found overlap')
+            yoffset = yoffset + b.height + 2;
+            console.log("adjusted yoffset: " + yoffset);
+          }
+
+        });
+
+
+        // set transform to new x,y values
+        d3.select(this).attr('transform', function(d){
+          return "translate(" + (translate[0]-xoffset) + "," + (translate[1]+yoffset) + ")";
+        })
+        bboxes.push(finalbbox); // TODO sort by y
+        console.log(finalbbox);
+      });
 
     book.selectAll(".point")
       // returns array of points
