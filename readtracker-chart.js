@@ -118,7 +118,6 @@ function showChart(selector, text) {
         return label; 
       })
       .each(function() {
-        console.log(this.textContent);
         // get original translate values and width values
         transform = d3.select(this).attr('transform');
         translate = transform.substring(transform.indexOf("(")+1, transform.indexOf(")")).split(",");
@@ -127,12 +126,9 @@ function showChart(selector, text) {
 
         // determine whether the text extends beyond the svg width
         edge = translate[0] + bbox.width;
-        console.log('edge: ' + translate[0] + '+' + bbox.width + '=' + edge)
-
         var xoffset = 0;
         if (edge > width) {
-          xoffset = edge - width;
-          console.log("'" + this.textContent + "' overruns by " + (edge - width));
+          xoffset = bbox.width + 12;
         };
 
         var finalbbox = {
@@ -141,27 +137,20 @@ function showChart(selector, text) {
           "width": bbox.width,
           "height": bbox.height
         }
-        console.log("finalbbox");
-        console.log(finalbbox)
 
         var yoffset = 0;
         // look for overlap with previously positioned texts
         bboxes.forEach(function(b){
           if (overlaps(b, finalbbox)) {
-            console.log('found overlap')
             yoffset = yoffset + b.height + 2;
-            console.log("adjusted yoffset: " + yoffset);
           }
-
         });
-
 
         // set transform to new x,y values
         d3.select(this).attr('transform', function(d){
           return "translate(" + (translate[0]-xoffset) + "," + (translate[1]+yoffset) + ")";
         })
         bboxes.push(finalbbox); // TODO sort by y
-        console.log(finalbbox);
       });
 
     book.selectAll(".point")
