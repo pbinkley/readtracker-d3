@@ -141,7 +141,7 @@ function showChart(selector, text) {
         var yoffset = 0;
         // look for overlap with previously positioned texts
         bboxes.forEach(function(b){
-          if (overlaps(b, finalbbox)) {
+          if (overlaps(b, finalbbox, yoffset)) {
             yoffset = yoffset + b.height + 2;
           }
         });
@@ -150,7 +150,16 @@ function showChart(selector, text) {
         d3.select(this).attr('transform', function(d){
           return "translate(" + (translate[0]-xoffset) + "," + (translate[1]+yoffset) + ")";
         })
-        bboxes.push(finalbbox); // TODO sort by y
+        // insert into bboxes, ordering by y descending
+        bboxeslength = bboxes.length;
+        for (var i = 0; i < bboxes.length; i++) {
+          if (finalbbox.y <= bboxes[i].y) {
+            bboxes.splice(i, 0, finalbbox);
+            break;
+          }
+        } 
+        if (bboxes.length == bboxeslength)
+          bboxes.push(finalbbox);           
       });
 
     book.selectAll(".point")
