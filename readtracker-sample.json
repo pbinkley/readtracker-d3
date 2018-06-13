@@ -1,0 +1,1772 @@
+{
+  "books": [
+    {
+      "title": "My Name is Red",
+      "author": "Orhan Pamuk",
+      "cover_image_url": "http://books.google.com/books/content?id=e-VW06wz8dQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "page_count": 452,
+      "current_position": 1,
+      "current_position_timestamp": 1513148466688,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.1390887349843979,
+          "duration_seconds": 2576,
+          "timestamp": 1508692978810
+        },
+        {
+          "start_position": 0.13908873,
+          "end_position": 0.13716813921928406,
+          "duration_seconds": 847,
+          "timestamp": 1508736201253
+        },
+        {
+          "start_position": 0.13716814,
+          "end_position": 0.16150441765785217,
+          "duration_seconds": 1824,
+          "timestamp": 1508803049560
+        },
+        {
+          "start_position": 0.16150442,
+          "end_position": 0.1946902722120285,
+          "duration_seconds": 2462,
+          "timestamp": 1508818823234
+        },
+        {
+          "start_position": 0.19469027,
+          "end_position": 0.22123894095420837,
+          "duration_seconds": 1737,
+          "timestamp": 1508872006412
+        },
+        {
+          "start_position": 0.22123894,
+          "end_position": 0.2699114978313446,
+          "duration_seconds": 3246,
+          "timestamp": 1509226857494
+        },
+        {
+          "start_position": 0.2699115,
+          "end_position": 0.29867255687713623,
+          "duration_seconds": 1700,
+          "timestamp": 1509343249077
+        },
+        {
+          "start_position": 0.29867256,
+          "end_position": 0.3207964599132538,
+          "duration_seconds": 1339,
+          "timestamp": 1509408285714
+        },
+        {
+          "start_position": 0.32079646,
+          "end_position": 0.3407079577445984,
+          "duration_seconds": 1149,
+          "timestamp": 1509583664991
+        },
+        {
+          "start_position": 0.34070796,
+          "end_position": 0.36725664138793945,
+          "duration_seconds": 1488,
+          "timestamp": 1509588702827
+        },
+        {
+          "start_position": 0.36725664,
+          "end_position": 0.39380529522895813,
+          "duration_seconds": 1561,
+          "timestamp": 1509633432018
+        },
+        {
+          "start_position": 0.3938053,
+          "end_position": 0.4048672616481781,
+          "duration_seconds": 756,
+          "timestamp": 1509825686599
+        },
+        {
+          "start_position": 0.40486726,
+          "end_position": 0.4557522237300873,
+          "duration_seconds": 2653,
+          "timestamp": 1509859683758
+        },
+        {
+          "start_position": 0.45575222,
+          "end_position": 0.502212405204773,
+          "duration_seconds": 3027,
+          "timestamp": 1509908856657
+        },
+        {
+          "start_position": 0.5022124,
+          "end_position": 0.528761088848114,
+          "duration_seconds": 1138,
+          "timestamp": 1509951017238
+        },
+        {
+          "start_position": 0.5287611,
+          "end_position": 0.5575221180915833,
+          "duration_seconds": 1548,
+          "timestamp": 1510033866980
+        },
+        {
+          "start_position": 0.5575221,
+          "end_position": 0.5752212405204773,
+          "duration_seconds": 1282,
+          "timestamp": 1510122533240
+        },
+        {
+          "start_position": 0.57522124,
+          "end_position": 0.5973451137542725,
+          "duration_seconds": 1196,
+          "timestamp": 1510189149544
+        },
+        {
+          "start_position": 0.5973451,
+          "end_position": 0.6150442361831665,
+          "duration_seconds": 1010,
+          "timestamp": 1510208163137
+        },
+        {
+          "start_position": 0.61504424,
+          "end_position": 0.6238937973976135,
+          "duration_seconds": 523,
+          "timestamp": 1510294523988
+        },
+        {
+          "start_position": 0.6238938,
+          "end_position": 0.6637167930603027,
+          "duration_seconds": 2666,
+          "timestamp": 1510378252242
+        },
+        {
+          "start_position": 0.6637168,
+          "end_position": 0.6991150379180908,
+          "duration_seconds": 2312,
+          "timestamp": 1510434538260
+        },
+        {
+          "start_position": 0.69911504,
+          "end_position": 0.7433628439903259,
+          "duration_seconds": 3051,
+          "timestamp": 1510464154032
+        },
+        {
+          "start_position": 0.74336284,
+          "end_position": 0.7654867172241211,
+          "duration_seconds": 1429,
+          "timestamp": 1510549689897
+        },
+        {
+          "start_position": 0.7654867,
+          "end_position": 0.8163716793060303,
+          "duration_seconds": 3146,
+          "timestamp": 1510637448291
+        },
+        {
+          "start_position": 0.8163717,
+          "end_position": 0.8517699241638184,
+          "duration_seconds": 2141,
+          "timestamp": 1510726327533
+        },
+        {
+          "start_position": 0.8517699,
+          "end_position": 0.8761062026023865,
+          "duration_seconds": 4,
+          "timestamp": 1510898052118
+        },
+        {
+          "start_position": 0.8761062,
+          "end_position": 0.8938053250312805,
+          "duration_seconds": 1071,
+          "timestamp": 1511067422063
+        },
+        {
+          "start_position": 0.8938053,
+          "end_position": 0.9269911646842957,
+          "duration_seconds": 1993,
+          "timestamp": 1511157290549
+        },
+        {
+          "start_position": 0.92699116,
+          "end_position": 0.9513274431228638,
+          "duration_seconds": 1625,
+          "timestamp": 1512241807797
+        },
+        {
+          "start_position": 0.95132744,
+          "end_position": 0.980088472366333,
+          "duration_seconds": 1970,
+          "timestamp": 1512256017850
+        },
+        {
+          "start_position": 0.9800885,
+          "end_position": 1,
+          "duration_seconds": 1023,
+          "timestamp": 1513148466688
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "Fear Itself: The New Deal and the Origins of Our Time",
+      "author": "Ira Katznelson",
+      "cover_image_url": "http://books.google.com/books/content?id=EtBX0jBwgCQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "page_count": 486,
+      "current_position": 0.3847736716270447,
+      "current_position_timestamp": 1528295612774,
+      "state": "Reading",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.02469135820865631,
+          "duration_seconds": 1414,
+          "timestamp": 1524839534864
+        },
+        {
+          "start_position": 0.024691358,
+          "end_position": 0.05761316791176796,
+          "duration_seconds": 3226,
+          "timestamp": 1524954837370
+        },
+        {
+          "start_position": 0.057613168,
+          "end_position": 0.06790123134851456,
+          "duration_seconds": 810,
+          "timestamp": 1525098684530
+        },
+        {
+          "start_position": 0.06790123,
+          "end_position": 0.08847736567258835,
+          "duration_seconds": 1906,
+          "timestamp": 1525132434161
+        },
+        {
+          "start_position": 0.088477366,
+          "end_position": 0.09876543283462524,
+          "duration_seconds": 978,
+          "timestamp": 1525185967314
+        },
+        {
+          "start_position": 0.09876543,
+          "end_position": 0.11934156715869904,
+          "duration_seconds": 1636,
+          "timestamp": 1525219338764
+        },
+        {
+          "start_position": 0.11934157,
+          "end_position": 0.13786008954048157,
+          "duration_seconds": 1454,
+          "timestamp": 1525267886648
+        },
+        {
+          "start_position": 0.13786009,
+          "end_position": 0.1666666716337204,
+          "duration_seconds": 2273,
+          "timestamp": 1525308431726
+        },
+        {
+          "start_position": 0.16666667,
+          "end_position": 0.1769547313451767,
+          "duration_seconds": 1008,
+          "timestamp": 1525358881079
+        },
+        {
+          "start_position": 0.17695473,
+          "end_position": 0.18518517911434174,
+          "duration_seconds": 1021,
+          "timestamp": 1525391997560
+        },
+        {
+          "start_position": 0.18518518,
+          "end_position": 0.2222222238779068,
+          "duration_seconds": 4024,
+          "timestamp": 1525566928823
+        },
+        {
+          "start_position": 0.22222222,
+          "end_position": 0.24074074625968933,
+          "duration_seconds": 2101,
+          "timestamp": 1525746102279
+        },
+        {
+          "start_position": 0.24074075,
+          "end_position": 0.25514402985572815,
+          "duration_seconds": 1201,
+          "timestamp": 1525962638220
+        },
+        {
+          "start_position": 0.25514403,
+          "end_position": 0.2839506268501282,
+          "duration_seconds": 1453,
+          "timestamp": 1526394983750
+        },
+        {
+          "start_position": 0.28395063,
+          "end_position": 0.3024691343307495,
+          "duration_seconds": 1390,
+          "timestamp": 1526482332176
+        },
+        {
+          "start_position": 0.30246913,
+          "end_position": 0.3127571940422058,
+          "duration_seconds": 1136,
+          "timestamp": 1526998568142
+        },
+        {
+          "start_position": 0.3127572,
+          "end_position": 0.33127573132514954,
+          "duration_seconds": 1819,
+          "timestamp": 1527954682818
+        },
+        {
+          "start_position": 0.33127573,
+          "end_position": 0.34567901492118835,
+          "duration_seconds": 1649,
+          "timestamp": 1528050121809
+        },
+        {
+          "start_position": 0.34567901,
+          "end_position": 0.3600822985172272,
+          "duration_seconds": 1677,
+          "timestamp": 1528066919211
+        },
+        {
+          "start_position": 0.3600823,
+          "end_position": 0.37037035822868347,
+          "duration_seconds": 1553,
+          "timestamp": 1528209313261
+        },
+        {
+          "start_position": 0.37037036,
+          "end_position": 0.37654322385787964,
+          "duration_seconds": 653,
+          "timestamp": 1528225375770
+        },
+        {
+          "start_position": 0.37654322,
+          "end_position": 0.3847736716270447,
+          "duration_seconds": 1016,
+          "timestamp": 1528295612774
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "The Memory Chalet",
+      "author": "Tony Judt",
+      "cover_image_url": "http://books.google.com/books/content?id=UKdIMjjZDO0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "page_count": 226,
+      "current_position": 1,
+      "current_position_timestamp": 1518935471879,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.05833333358168602,
+          "duration_seconds": 1193,
+          "timestamp": 1513462976132
+        },
+        {
+          "start_position": 0.058333334,
+          "end_position": 0.13333334028720856,
+          "duration_seconds": 1202,
+          "timestamp": 1513637686230
+        },
+        {
+          "start_position": 0.13333334,
+          "end_position": 0.23333333432674408,
+          "duration_seconds": 2013,
+          "timestamp": 1514172198453
+        },
+        {
+          "start_position": 0.23333333,
+          "end_position": 0.26249998807907104,
+          "duration_seconds": 487,
+          "timestamp": 1514270371857
+        },
+        {
+          "start_position": 0.2625,
+          "end_position": 0.30000001192092896,
+          "duration_seconds": 708,
+          "timestamp": 1514315738083
+        },
+        {
+          "start_position": 0.3,
+          "end_position": 0.3333333432674408,
+          "duration_seconds": 631,
+          "timestamp": 1514873346527
+        },
+        {
+          "start_position": 0.33333334,
+          "end_position": 0.4124999940395355,
+          "duration_seconds": 1344,
+          "timestamp": 1517206563534
+        },
+        {
+          "start_position": 0.4125,
+          "end_position": 0.4791666567325592,
+          "duration_seconds": 1130,
+          "timestamp": 1517585752950
+        },
+        {
+          "start_position": 0.47916666,
+          "end_position": 0.5833333134651184,
+          "duration_seconds": 1047,
+          "timestamp": 1518027810428
+        },
+        {
+          "start_position": 0.5833333,
+          "end_position": 0.6083333492279053,
+          "duration_seconds": 552,
+          "timestamp": 1518309187455
+        },
+        {
+          "start_position": 0.60833335,
+          "end_position": 0.6833333373069763,
+          "duration_seconds": 1324,
+          "timestamp": 1518328615207
+        },
+        {
+          "start_position": 0.68333334,
+          "end_position": 0.7583333253860474,
+          "duration_seconds": 1208,
+          "timestamp": 1518586321345
+        },
+        {
+          "start_position": 0.7583333,
+          "end_position": 0.8666666746139526,
+          "duration_seconds": 1719,
+          "timestamp": 1518677437139
+        },
+        {
+          "start_position": 0.8666667,
+          "end_position": 1,
+          "duration_seconds": 1380,
+          "timestamp": 1518935471879
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "American on the Western Front",
+      "author": "Patrick Gregory, Elizabeth Nurser",
+      "cover_image_url": "http://books.google.com/books/content?id=HF91DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "page_count": 335,
+      "current_position": 1,
+      "current_position_timestamp": 1518813766773,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.24776118993759155,
+          "duration_seconds": 2,
+          "timestamp": 1509026964189
+        },
+        {
+          "start_position": 0.24776119,
+          "end_position": 0.27761194109916687,
+          "duration_seconds": 1352,
+          "timestamp": 1509028331093
+        },
+        {
+          "start_position": 0.27761194,
+          "end_position": 0.3074626922607422,
+          "duration_seconds": 1759,
+          "timestamp": 1510615893006
+        },
+        {
+          "start_position": 0.3074627,
+          "end_position": 0.3373134434223175,
+          "duration_seconds": 1672,
+          "timestamp": 1517844902874
+        },
+        {
+          "start_position": 0.33731344,
+          "end_position": 0.3641791045665741,
+          "duration_seconds": 1676,
+          "timestamp": 1517865552152
+        },
+        {
+          "start_position": 0.3641791,
+          "end_position": 0.41492536664009094,
+          "duration_seconds": 1636,
+          "timestamp": 1517931552735
+        },
+        {
+          "start_position": 0.41492537,
+          "end_position": 0.45373135805130005,
+          "duration_seconds": 1429,
+          "timestamp": 1517946787702
+        },
+        {
+          "start_position": 0.45373136,
+          "end_position": 0.5104477405548096,
+          "duration_seconds": 1963,
+          "timestamp": 1517965567711
+        },
+        {
+          "start_position": 0.51044774,
+          "end_position": 0.5611940026283264,
+          "duration_seconds": 1629,
+          "timestamp": 1518017969876
+        },
+        {
+          "start_position": 0.561194,
+          "end_position": 0.5820895433425903,
+          "duration_seconds": 807,
+          "timestamp": 1518104963922
+        },
+        {
+          "start_position": 0.58208954,
+          "end_position": 0.6328358054161072,
+          "duration_seconds": 2027,
+          "timestamp": 1518140828818
+        },
+        {
+          "start_position": 0.6328358,
+          "end_position": 0.6537313461303711,
+          "duration_seconds": 918,
+          "timestamp": 1518228382423
+        },
+        {
+          "start_position": 0.65373135,
+          "end_position": 0.674626886844635,
+          "duration_seconds": 832,
+          "timestamp": 1518300275182
+        },
+        {
+          "start_position": 0.6746269,
+          "end_position": 0.7253731489181519,
+          "duration_seconds": 1915,
+          "timestamp": 1518486589606
+        },
+        {
+          "start_position": 0.72537315,
+          "end_position": 0.7701492309570312,
+          "duration_seconds": 1635,
+          "timestamp": 1518536228648
+        },
+        {
+          "start_position": 0.77014923,
+          "end_position": 0.8298507332801819,
+          "duration_seconds": 2361,
+          "timestamp": 1518571767542
+        },
+        {
+          "start_position": 0.82985073,
+          "end_position": 0.8656716346740723,
+          "duration_seconds": 1488,
+          "timestamp": 1518622746635
+        },
+        {
+          "start_position": 0.86567163,
+          "end_position": 0.8835821151733398,
+          "duration_seconds": 883,
+          "timestamp": 1518659322564
+        },
+        {
+          "start_position": 0.8835821,
+          "end_position": 0.904477596282959,
+          "duration_seconds": 871,
+          "timestamp": 1518709541849
+        },
+        {
+          "start_position": 0.9044776,
+          "end_position": 0.9492537379264832,
+          "duration_seconds": 2541,
+          "timestamp": 1518747627882
+        },
+        {
+          "start_position": 0.94925374,
+          "end_position": 0.9791044592857361,
+          "duration_seconds": 1674,
+          "timestamp": 1518795892334
+        },
+        {
+          "start_position": 0.97910446,
+          "end_position": 1,
+          "duration_seconds": 869,
+          "timestamp": 1518813766773
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "Imperium (Book One)",
+      "author": "Robert Harris",
+      "cover_image_url": "http://books.google.com/books/content?id=1P35DAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "page_count": 480,
+      "current_position": 1,
+      "current_position_timestamp": 1518264010071,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.03515625,
+          "duration_seconds": 1247,
+          "timestamp": 1514234910948
+        },
+        {
+          "start_position": 0.03515625,
+          "end_position": 0.103515625,
+          "duration_seconds": 3304,
+          "timestamp": 1514268805055
+        },
+        {
+          "start_position": 0.103515625,
+          "end_position": 0.13671875,
+          "duration_seconds": 902,
+          "timestamp": 1514339975837
+        },
+        {
+          "start_position": 0.13671875,
+          "end_position": 0.158203125,
+          "duration_seconds": 890,
+          "timestamp": 1514922844081
+        },
+        {
+          "start_position": 0.15820312,
+          "end_position": 0.1875,
+          "duration_seconds": 1257,
+          "timestamp": 1514958775033
+        },
+        {
+          "start_position": 0.1875,
+          "end_position": 0.208984375,
+          "duration_seconds": 689,
+          "timestamp": 1515008370751
+        },
+        {
+          "start_position": 0.20898438,
+          "end_position": 0.234375,
+          "duration_seconds": 1060,
+          "timestamp": 1515048835560
+        },
+        {
+          "start_position": 0.234375,
+          "end_position": 0.2421875,
+          "duration_seconds": 186,
+          "timestamp": 1515131502491
+        },
+        {
+          "start_position": 0.2421875,
+          "end_position": 0.26171875,
+          "duration_seconds": 701,
+          "timestamp": 1515734493175
+        },
+        {
+          "start_position": 0.26171875,
+          "end_position": 0.28125,
+          "duration_seconds": 901,
+          "timestamp": 1515829140892
+        },
+        {
+          "start_position": 0.28125,
+          "end_position": 0.31640625,
+          "duration_seconds": 1245,
+          "timestamp": 1516169216928
+        },
+        {
+          "start_position": 0.31640625,
+          "end_position": 0.35546875,
+          "duration_seconds": 1488,
+          "timestamp": 1516341545085
+        },
+        {
+          "start_position": 0.35546875,
+          "end_position": 0.375,
+          "duration_seconds": 814,
+          "timestamp": 1516431218268
+        },
+        {
+          "start_position": 0.375,
+          "end_position": 0.39453125,
+          "duration_seconds": 876,
+          "timestamp": 1516602860706
+        },
+        {
+          "start_position": 0.39453125,
+          "end_position": 0.443359375,
+          "duration_seconds": 1809,
+          "timestamp": 1516863334501
+        },
+        {
+          "start_position": 0.44335938,
+          "end_position": 0.498046875,
+          "duration_seconds": 2069,
+          "timestamp": 1517031716817
+        },
+        {
+          "start_position": 0.49804688,
+          "end_position": 0.513671875,
+          "duration_seconds": 746,
+          "timestamp": 1517639149376
+        },
+        {
+          "start_position": 0.5136719,
+          "end_position": 0.568359375,
+          "duration_seconds": 2486,
+          "timestamp": 1517674296779
+        },
+        {
+          "start_position": 0.5683594,
+          "end_position": 0.587890625,
+          "duration_seconds": 909,
+          "timestamp": 1517726716693
+        },
+        {
+          "start_position": 0.5878906,
+          "end_position": 0.640625,
+          "duration_seconds": 2751,
+          "timestamp": 1517751304172
+        },
+        {
+          "start_position": 0.640625,
+          "end_position": 0.677734375,
+          "duration_seconds": 1837,
+          "timestamp": 1517764312691
+        },
+        {
+          "start_position": 0.6777344,
+          "end_position": 0.705078125,
+          "duration_seconds": 1226,
+          "timestamp": 1517808650193
+        },
+        {
+          "start_position": 0.7050781,
+          "end_position": 0.751953125,
+          "duration_seconds": 1687,
+          "timestamp": 1517897601421
+        },
+        {
+          "start_position": 0.7519531,
+          "end_position": 0.779296875,
+          "duration_seconds": 1133,
+          "timestamp": 1517920972953
+        },
+        {
+          "start_position": 0.7792969,
+          "end_position": 0.802734375,
+          "duration_seconds": 1164,
+          "timestamp": 1517984121306
+        },
+        {
+          "start_position": 0.8027344,
+          "end_position": 0.884765625,
+          "duration_seconds": 3001,
+          "timestamp": 1518071158572
+        },
+        {
+          "start_position": 0.8847656,
+          "end_position": 0.981249988079071,
+          "duration_seconds": 1313,
+          "timestamp": 1518155611274
+        },
+        {
+          "start_position": 0.98125,
+          "end_position": 1,
+          "duration_seconds": 1039,
+          "timestamp": 1518264010071
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "Paris 1919",
+      "author": "Margaret MacMillan",
+      "cover_image_url": "http://books.google.com/books/content?id=dhKPDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "page_count": 494,
+      "current_position": 1,
+      "current_position_timestamp": 1524753711967,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.03238866478204727,
+          "duration_seconds": 2121,
+          "timestamp": 1518830238201
+        },
+        {
+          "start_position": 0.032388665,
+          "end_position": 0.05263157933950424,
+          "duration_seconds": 1258,
+          "timestamp": 1518910169594
+        },
+        {
+          "start_position": 0.05263158,
+          "end_position": 0.07287449389696121,
+          "duration_seconds": 1666,
+          "timestamp": 1519140988827
+        },
+        {
+          "start_position": 0.072874494,
+          "end_position": 0.08704453706741333,
+          "duration_seconds": 1187,
+          "timestamp": 1519155791678
+        },
+        {
+          "start_position": 0.08704454,
+          "end_position": 0.1072874516248703,
+          "duration_seconds": 1011,
+          "timestamp": 1519175886509
+        },
+        {
+          "start_position": 0.10728745,
+          "end_position": 0.11336032301187515,
+          "duration_seconds": 1003,
+          "timestamp": 1519227180034
+        },
+        {
+          "start_position": 0.11336032,
+          "end_position": 0.12550607323646545,
+          "duration_seconds": 1401,
+          "timestamp": 1519241554071
+        },
+        {
+          "start_position": 0.12550607,
+          "end_position": 0.1437246948480606,
+          "duration_seconds": 1335,
+          "timestamp": 1519313604238
+        },
+        {
+          "start_position": 0.1437247,
+          "end_position": 0.1659919023513794,
+          "duration_seconds": 2180,
+          "timestamp": 1519347753271
+        },
+        {
+          "start_position": 0.1659919,
+          "end_position": 0.1781376451253891,
+          "duration_seconds": 1288,
+          "timestamp": 1519401098966
+        },
+        {
+          "start_position": 0.17813765,
+          "end_position": 0.19838055968284607,
+          "duration_seconds": 1661,
+          "timestamp": 1519433292756
+        },
+        {
+          "start_position": 0.19838056,
+          "end_position": 0.21862348914146423,
+          "duration_seconds": 2733,
+          "timestamp": 1519508422802
+        },
+        {
+          "start_position": 0.21862349,
+          "end_position": 0.2368421107530594,
+          "duration_seconds": 1538,
+          "timestamp": 1519659402822
+        },
+        {
+          "start_position": 0.23684211,
+          "end_position": 0.2510121464729309,
+          "duration_seconds": 1503,
+          "timestamp": 1519747762255
+        },
+        {
+          "start_position": 0.25101215,
+          "end_position": 0.2732793390750885,
+          "duration_seconds": 1638,
+          "timestamp": 1519832161960
+        },
+        {
+          "start_position": 0.27327934,
+          "end_position": 0.28137651085853577,
+          "duration_seconds": 663,
+          "timestamp": 1519918935634
+        },
+        {
+          "start_position": 0.2813765,
+          "end_position": 0.29149797558784485,
+          "duration_seconds": 857,
+          "timestamp": 1520005372961
+        },
+        {
+          "start_position": 0.29149798,
+          "end_position": 0.31578946113586426,
+          "duration_seconds": 1724,
+          "timestamp": 1520039832832
+        },
+        {
+          "start_position": 0.31578946,
+          "end_position": 0.329959511756897,
+          "duration_seconds": 1383,
+          "timestamp": 1520264480329
+        },
+        {
+          "start_position": 0.3299595,
+          "end_position": 0.35829958319664,
+          "duration_seconds": 1960,
+          "timestamp": 1520299043412
+        },
+        {
+          "start_position": 0.35829958,
+          "end_position": 0.3704453408718109,
+          "duration_seconds": 1202,
+          "timestamp": 1520436830162
+        },
+        {
+          "start_position": 0.37044534,
+          "end_position": 0.3906882703304291,
+          "duration_seconds": 1802,
+          "timestamp": 1520523506249
+        },
+        {
+          "start_position": 0.39068827,
+          "end_position": 0.4028339982032776,
+          "duration_seconds": 1021,
+          "timestamp": 1520537519808
+        },
+        {
+          "start_position": 0.402834,
+          "end_position": 0.42307692766189575,
+          "duration_seconds": 1190,
+          "timestamp": 1520559413759
+        },
+        {
+          "start_position": 0.42307693,
+          "end_position": 0.431174099445343,
+          "duration_seconds": 1112,
+          "timestamp": 1520625089298
+        },
+        {
+          "start_position": 0.4311741,
+          "end_position": 0.44736841320991516,
+          "duration_seconds": 1500,
+          "timestamp": 1520865601461
+        },
+        {
+          "start_position": 0.4473684,
+          "end_position": 0.45748987793922424,
+          "duration_seconds": 1338,
+          "timestamp": 1520902143509
+        },
+        {
+          "start_position": 0.45748988,
+          "end_position": 0.4676113426685333,
+          "duration_seconds": 1327,
+          "timestamp": 1521038144856
+        },
+        {
+          "start_position": 0.46761134,
+          "end_position": 0.4736842215061188,
+          "duration_seconds": 520,
+          "timestamp": 1521072252787
+        },
+        {
+          "start_position": 0.47368422,
+          "end_position": 0.4898785352706909,
+          "duration_seconds": 1651,
+          "timestamp": 1521125367888
+        },
+        {
+          "start_position": 0.48987854,
+          "end_position": 0.5040485858917236,
+          "duration_seconds": 1055,
+          "timestamp": 1521160636401
+        },
+        {
+          "start_position": 0.5040486,
+          "end_position": 0.5182186365127563,
+          "duration_seconds": 1565,
+          "timestamp": 1521212174673
+        },
+        {
+          "start_position": 0.51821864,
+          "end_position": 0.5344129800796509,
+          "duration_seconds": 1200,
+          "timestamp": 1521505147290
+        },
+        {
+          "start_position": 0.534413,
+          "end_position": 0.5566801428794861,
+          "duration_seconds": 1502,
+          "timestamp": 1521558534033
+        },
+        {
+          "start_position": 0.55668014,
+          "end_position": 0.5809716582298279,
+          "duration_seconds": 1893,
+          "timestamp": 1521590345123
+        },
+        {
+          "start_position": 0.58097166,
+          "end_position": 0.5931174159049988,
+          "duration_seconds": 989,
+          "timestamp": 1521682614744
+        },
+        {
+          "start_position": 0.5931174,
+          "end_position": 0.6093117594718933,
+          "duration_seconds": 1480,
+          "timestamp": 1521729367879
+        },
+        {
+          "start_position": 0.60931176,
+          "end_position": 0.6174089312553406,
+          "duration_seconds": 1235,
+          "timestamp": 1521816537007
+        },
+        {
+          "start_position": 0.61740893,
+          "end_position": 0.6275303363800049,
+          "duration_seconds": 879,
+          "timestamp": 1522074448466
+        },
+        {
+          "start_position": 0.62753034,
+          "end_position": 0.6396760940551758,
+          "duration_seconds": 955,
+          "timestamp": 1522334477175
+        },
+        {
+          "start_position": 0.6396761,
+          "end_position": 0.6497975587844849,
+          "duration_seconds": 886,
+          "timestamp": 1522691824442
+        },
+        {
+          "start_position": 0.64979756,
+          "end_position": 0.659919023513794,
+          "duration_seconds": 901,
+          "timestamp": 1522765674402
+        },
+        {
+          "start_position": 0.659919,
+          "end_position": 0.6882591247558594,
+          "duration_seconds": 2088,
+          "timestamp": 1522804522652
+        },
+        {
+          "start_position": 0.6882591,
+          "end_position": 0.7004048824310303,
+          "duration_seconds": 736,
+          "timestamp": 1522852740056
+        },
+        {
+          "start_position": 0.7004049,
+          "end_position": 0.7186234593391418,
+          "duration_seconds": 1235,
+          "timestamp": 1523370970024
+        },
+        {
+          "start_position": 0.71862346,
+          "end_position": 0.7327935099601746,
+          "duration_seconds": 1221,
+          "timestamp": 1523630541946
+        },
+        {
+          "start_position": 0.7327935,
+          "end_position": 0.7530364394187927,
+          "duration_seconds": 1553,
+          "timestamp": 1523925768525
+        },
+        {
+          "start_position": 0.75303644,
+          "end_position": 0.7692307829856873,
+          "duration_seconds": 1263,
+          "timestamp": 1524062006428
+        },
+        {
+          "start_position": 0.7692308,
+          "end_position": 0.7894737124443054,
+          "duration_seconds": 1607,
+          "timestamp": 1524150062766
+        },
+        {
+          "start_position": 0.7894737,
+          "end_position": 0.7975708246231079,
+          "duration_seconds": 655,
+          "timestamp": 1524193133920
+        },
+        {
+          "start_position": 0.7975708,
+          "end_position": 0.829959511756897,
+          "duration_seconds": 2335,
+          "timestamp": 1524236140036
+        },
+        {
+          "start_position": 0.8299595,
+          "end_position": 0.862348198890686,
+          "duration_seconds": 2538,
+          "timestamp": 1524268970859
+        },
+        {
+          "start_position": 0.8623482,
+          "end_position": 0.8805667757987976,
+          "duration_seconds": 1383,
+          "timestamp": 1524495334469
+        },
+        {
+          "start_position": 0.8805668,
+          "end_position": 0.9028339982032776,
+          "duration_seconds": 2047,
+          "timestamp": 1524531276255
+        },
+        {
+          "start_position": 0.902834,
+          "end_position": 0.9149797558784485,
+          "duration_seconds": 1049,
+          "timestamp": 1524547245286
+        },
+        {
+          "start_position": 0.91497976,
+          "end_position": 0.9271255135536194,
+          "duration_seconds": 627,
+          "timestamp": 1524580867569
+        },
+        {
+          "start_position": 0.9271255,
+          "end_position": 0.9433198571205139,
+          "duration_seconds": 1457,
+          "timestamp": 1524666878111
+        },
+        {
+          "start_position": 0.94331986,
+          "end_position": 0.9554656147956848,
+          "duration_seconds": 1059,
+          "timestamp": 1524703675350
+        },
+        {
+          "start_position": 0.9554656,
+          "end_position": 0.9797570705413818,
+          "duration_seconds": 2398,
+          "timestamp": 1524709173063
+        },
+        {
+          "start_position": 0.9797571,
+          "end_position": 1,
+          "duration_seconds": 262,
+          "timestamp": 1524753711967
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "Autumn",
+      "author": "Ali Smith",
+      "cover_image_url": "http://books.google.com/books/content?id=BH41DAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "page_count": 260,
+      "current_position": 1,
+      "current_position_timestamp": 1519130338486,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.13846154510974884,
+          "duration_seconds": 2023,
+          "timestamp": 1514869437746
+        },
+        {
+          "start_position": 0.13846155,
+          "end_position": 0.2230769246816635,
+          "duration_seconds": 1018,
+          "timestamp": 1518266418615
+        },
+        {
+          "start_position": 0.22307692,
+          "end_position": 0.3384615480899811,
+          "duration_seconds": 1309,
+          "timestamp": 1518499992612
+        },
+        {
+          "start_position": 0.33846155,
+          "end_position": 0.4923076927661896,
+          "duration_seconds": 2327,
+          "timestamp": 1518530120871
+        },
+        {
+          "start_position": 0.4923077,
+          "end_position": 0.7461538314819336,
+          "duration_seconds": 3366,
+          "timestamp": 1519060690582
+        },
+        {
+          "start_position": 0.74615383,
+          "end_position": 0.8538461327552795,
+          "duration_seconds": 1425,
+          "timestamp": 1519105344463
+        },
+        {
+          "start_position": 0.85384613,
+          "end_position": 1,
+          "duration_seconds": 2596,
+          "timestamp": 1519130338486
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "The Great Derangement",
+      "author": "Amitav Ghosh",
+      "cover_image_url": "http://books.google.com/books/content?id=ImcpDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "page_count": 164,
+      "current_position": 1,
+      "current_position_timestamp": 1517551314159,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.04878048598766327,
+          "duration_seconds": 507,
+          "timestamp": 1515633063475
+        },
+        {
+          "start_position": 0.048780486,
+          "end_position": 0.0731707289814949,
+          "duration_seconds": 347,
+          "timestamp": 1515633481592
+        },
+        {
+          "start_position": 0.07317073,
+          "end_position": 0.12804877758026123,
+          "duration_seconds": 953,
+          "timestamp": 1515718953908
+        },
+        {
+          "start_position": 0.12804878,
+          "end_position": 0.1463414579629898,
+          "duration_seconds": 396,
+          "timestamp": 1516031496374
+        },
+        {
+          "start_position": 0.14634146,
+          "end_position": 0.21341463923454285,
+          "duration_seconds": 1451,
+          "timestamp": 1516479269408
+        },
+        {
+          "start_position": 0.21341464,
+          "end_position": 0.26829269528388977,
+          "duration_seconds": 1152,
+          "timestamp": 1516650846410
+        },
+        {
+          "start_position": 0.2682927,
+          "end_position": 0.32926830649375916,
+          "duration_seconds": 1238,
+          "timestamp": 1516669386384
+        },
+        {
+          "start_position": 0.3292683,
+          "end_position": 0.5121951103210449,
+          "duration_seconds": 3174,
+          "timestamp": 1516851031953
+        },
+        {
+          "start_position": 0.5121951,
+          "end_position": 0.5975610017776489,
+          "duration_seconds": 1261,
+          "timestamp": 1517327291322
+        },
+        {
+          "start_position": 0.597561,
+          "end_position": 0.6585366129875183,
+          "duration_seconds": 1330,
+          "timestamp": 1517341581608
+        },
+        {
+          "start_position": 0.6585366,
+          "end_position": 0.7621951103210449,
+          "duration_seconds": 1687,
+          "timestamp": 1517413157511
+        },
+        {
+          "start_position": 0.7621951,
+          "end_position": 0.8170731663703918,
+          "duration_seconds": 1706,
+          "timestamp": 1517450709433
+        },
+        {
+          "start_position": 0.81707317,
+          "end_position": 0.8780487775802612,
+          "duration_seconds": 1098,
+          "timestamp": 1517464120663
+        },
+        {
+          "start_position": 0.8780488,
+          "end_position": 0.9024389982223511,
+          "duration_seconds": 591,
+          "timestamp": 1517539275599
+        },
+        {
+          "start_position": 0.902439,
+          "end_position": 0.9390243887901306,
+          "duration_seconds": 946,
+          "timestamp": 1517544533004
+        },
+        {
+          "start_position": 0.9390244,
+          "end_position": 1,
+          "duration_seconds": 951,
+          "timestamp": 1517551314159
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "Yardwork",
+      "author": "Daniel Coleman",
+      "cover_image_url": "http://books.google.com/books/content?id=JdwqvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "page_count": 249,
+      "current_position": 1,
+      "current_position_timestamp": 1522598979791,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.06827308982610703,
+          "duration_seconds": 765,
+          "timestamp": 1519106201543
+        },
+        {
+          "start_position": 0.06827309,
+          "end_position": 0.1405622512102127,
+          "duration_seconds": 1723,
+          "timestamp": 1519625654295
+        },
+        {
+          "start_position": 0.14056225,
+          "end_position": 0.2208835333585739,
+          "duration_seconds": 1828,
+          "timestamp": 1519971901975
+        },
+        {
+          "start_position": 0.22088353,
+          "end_position": 0.3052208721637726,
+          "duration_seconds": 2241,
+          "timestamp": 1520183947770
+        },
+        {
+          "start_position": 0.30522087,
+          "end_position": 0.36947789788246155,
+          "duration_seconds": 1238,
+          "timestamp": 1520746526902
+        },
+        {
+          "start_position": 0.3694779,
+          "end_position": 0.5461847186088562,
+          "duration_seconds": 4134,
+          "timestamp": 1521303339487
+        },
+        {
+          "start_position": 0.5461847,
+          "end_position": 0.6586345434188843,
+          "duration_seconds": 2552,
+          "timestamp": 1521393044895
+        },
+        {
+          "start_position": 0.65863454,
+          "end_position": 0.7148594260215759,
+          "duration_seconds": 1149,
+          "timestamp": 1521955626075
+        },
+        {
+          "start_position": 0.7148594,
+          "end_position": 0.7951807379722595,
+          "duration_seconds": 1574,
+          "timestamp": 1522127290150
+        },
+        {
+          "start_position": 0.79518074,
+          "end_position": 0.8433734774589539,
+          "duration_seconds": 911,
+          "timestamp": 1522211837815
+        },
+        {
+          "start_position": 0.8433735,
+          "end_position": 0.9277108311653137,
+          "duration_seconds": 1826,
+          "timestamp": 1522423998102
+        },
+        {
+          "start_position": 0.92771083,
+          "end_position": 1,
+          "duration_seconds": 1472,
+          "timestamp": 1522598979791
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "A Game of Thrones: The Illustrated Edition",
+      "author": "George R. R. Martin",
+      "cover_image_url": "http://books.google.com/books/content?id=gd7UCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "page_count": 843,
+      "current_position": 0.5527876615524292,
+      "current_position_timestamp": 1526274699521,
+      "state": "Reading",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.017793593928217888,
+          "duration_seconds": 1169,
+          "timestamp": 1519278603989
+        },
+        {
+          "start_position": 0.017793594,
+          "end_position": 0.03795966878533363,
+          "duration_seconds": 1536,
+          "timestamp": 1519364993749
+        },
+        {
+          "start_position": 0.03795967,
+          "end_position": 0.0652431771159172,
+          "duration_seconds": 2614,
+          "timestamp": 1519568052511
+        },
+        {
+          "start_position": 0.06524318,
+          "end_position": 0.07591933757066727,
+          "duration_seconds": 971,
+          "timestamp": 1519709933555
+        },
+        {
+          "start_position": 0.07591934,
+          "end_position": 0.11150652170181274,
+          "duration_seconds": 1801,
+          "timestamp": 1519734935547
+        },
+        {
+          "start_position": 0.11150652,
+          "end_position": 0.12099643796682358,
+          "duration_seconds": 625,
+          "timestamp": 1519972567810
+        },
+        {
+          "start_position": 0.12099644,
+          "end_position": 0.16725978255271912,
+          "duration_seconds": 4045,
+          "timestamp": 1520092111332
+        },
+        {
+          "start_position": 0.16725978,
+          "end_position": 0.1874258667230606,
+          "duration_seconds": 1478,
+          "timestamp": 1520317560507
+        },
+        {
+          "start_position": 0.18742587,
+          "end_position": 0.21352313458919525,
+          "duration_seconds": 2100,
+          "timestamp": 1520336805308
+        },
+        {
+          "start_position": 0.21352313,
+          "end_position": 0.2277580052614212,
+          "duration_seconds": 1241,
+          "timestamp": 1520689204215
+        },
+        {
+          "start_position": 0.227758,
+          "end_position": 0.2479240745306015,
+          "duration_seconds": 1947,
+          "timestamp": 1520778847161
+        },
+        {
+          "start_position": 0.24792407,
+          "end_position": 0.2609727084636688,
+          "duration_seconds": 1273,
+          "timestamp": 1520916932309
+        },
+        {
+          "start_position": 0.2609727,
+          "end_position": 0.2752075791358948,
+          "duration_seconds": 1507,
+          "timestamp": 1521114590101
+        },
+        {
+          "start_position": 0.27520758,
+          "end_position": 0.2894424796104431,
+          "duration_seconds": 1199,
+          "timestamp": 1521195641218
+        },
+        {
+          "start_position": 0.28944248,
+          "end_position": 0.30367735028266907,
+          "duration_seconds": 1252,
+          "timestamp": 1521320899895
+        },
+        {
+          "start_position": 0.30367735,
+          "end_position": 0.3297746181488037,
+          "duration_seconds": 2267,
+          "timestamp": 1521354064987
+        },
+        {
+          "start_position": 0.32977462,
+          "end_position": 0.3463819622993469,
+          "duration_seconds": 1516,
+          "timestamp": 1521611217539
+        },
+        {
+          "start_position": 0.34638196,
+          "end_position": 0.3606168329715729,
+          "duration_seconds": 1479,
+          "timestamp": 1521862317330
+        },
+        {
+          "start_position": 0.36061683,
+          "end_position": 0.3867141306400299,
+          "duration_seconds": 2359,
+          "timestamp": 1521983240245
+        },
+        {
+          "start_position": 0.38671413,
+          "end_position": 0.40806642174720764,
+          "duration_seconds": 2413,
+          "timestamp": 1522150268310
+        },
+        {
+          "start_position": 0.40806642,
+          "end_position": 0.42467379570007324,
+          "duration_seconds": 1487,
+          "timestamp": 1522213342279
+        },
+        {
+          "start_position": 0.4246738,
+          "end_position": 0.4507710635662079,
+          "duration_seconds": 1802,
+          "timestamp": 1522234891700
+        },
+        {
+          "start_position": 0.45077106,
+          "end_position": 0.4721233546733856,
+          "duration_seconds": 2340,
+          "timestamp": 1522988922075
+        },
+        {
+          "start_position": 0.47212335,
+          "end_position": 0.48161327838897705,
+          "duration_seconds": 981,
+          "timestamp": 1523598290384
+        },
+        {
+          "start_position": 0.48161328,
+          "end_position": 0.4875444769859314,
+          "duration_seconds": 745,
+          "timestamp": 1524110952906
+        },
+        {
+          "start_position": 0.48754448,
+          "end_position": 0.49347567558288574,
+          "duration_seconds": 917,
+          "timestamp": 1524801804453
+        },
+        {
+          "start_position": 0.49347568,
+          "end_position": 0.510083019733429,
+          "duration_seconds": 1234,
+          "timestamp": 1525151340060
+        },
+        {
+          "start_position": 0.510083,
+          "end_position": 0.5266903638839722,
+          "duration_seconds": 1705,
+          "timestamp": 1525520482879
+        },
+        {
+          "start_position": 0.52669036,
+          "end_position": 0.536180317401886,
+          "duration_seconds": 727,
+          "timestamp": 1525923991367
+        },
+        {
+          "start_position": 0.5361803,
+          "end_position": 0.5527876615524292,
+          "duration_seconds": 1547,
+          "timestamp": 1526274699521
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "The Book that Changed America",
+      "author": "Randall Fuller",
+      "cover_image_url": "http://books.google.com/books/content?id=rrrJDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "page_count": 250,
+      "current_position": 0.13199999928474426,
+      "current_position_timestamp": 1524802274688,
+      "state": "Reading",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.07199999690055847,
+          "duration_seconds": 1895,
+          "timestamp": 1524024619804
+        },
+        {
+          "start_position": 0.072,
+          "end_position": 0.1120000034570694,
+          "duration_seconds": 1304,
+          "timestamp": 1524194449672
+        },
+        {
+          "start_position": 0.112,
+          "end_position": 0.13199999928474426,
+          "duration_seconds": 443,
+          "timestamp": 1524802274688
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "Some Girls, Some Hats and Hitler",
+      "author": "Trudi Kanter",
+      "cover_image_url": "http://books.google.com/books/content?id=cXOxpFp1LLQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "page_count": 258,
+      "current_position": 1,
+      "current_position_timestamp": 1524426352560,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.09302325546741486,
+          "duration_seconds": 1467,
+          "timestamp": 1524108626177
+        },
+        {
+          "start_position": 0.093023255,
+          "end_position": 0.26356589794158936,
+          "duration_seconds": 1814,
+          "timestamp": 1524284516074
+        },
+        {
+          "start_position": 0.2635659,
+          "end_position": 0.3759689927101135,
+          "duration_seconds": 1878,
+          "timestamp": 1524336086820
+        },
+        {
+          "start_position": 0.375969,
+          "end_position": 0.604651153087616,
+          "duration_seconds": 2451,
+          "timestamp": 1524362557028
+        },
+        {
+          "start_position": 0.60465115,
+          "end_position": 0.6899224519729614,
+          "duration_seconds": 1462,
+          "timestamp": 1524373071212
+        },
+        {
+          "start_position": 0.68992245,
+          "end_position": 0.961240291595459,
+          "duration_seconds": 4431,
+          "timestamp": 1524422595563
+        },
+        {
+          "start_position": 0.9612403,
+          "end_position": 1,
+          "duration_seconds": 562,
+          "timestamp": 1524426352560
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "The Historical Records Survey",
+      "author": "Edward Barrese",
+      "page_count": 162,
+      "current_position": 1,
+      "current_position_timestamp": 1526339415315,
+      "closing_remark": "",
+      "state": "Finished",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.17901234328746796,
+          "duration_seconds": 2317,
+          "timestamp": 1525446113141
+        },
+        {
+          "start_position": 0.17901234,
+          "end_position": 0.34567901492118835,
+          "duration_seconds": 3007,
+          "timestamp": 1525731680434
+        },
+        {
+          "start_position": 0.34567901,
+          "end_position": 0.43209877610206604,
+          "duration_seconds": 1351,
+          "timestamp": 1525876491325
+        },
+        {
+          "start_position": 0.43209878,
+          "end_position": 0.5123456716537476,
+          "duration_seconds": 1505,
+          "timestamp": 1526050786325
+        },
+        {
+          "start_position": 0.5123457,
+          "end_position": 0.5679012537002563,
+          "duration_seconds": 1336,
+          "timestamp": 1526064041236
+        },
+        {
+          "start_position": 0.56790125,
+          "end_position": 0.7345678806304932,
+          "duration_seconds": 2296,
+          "timestamp": 1526083032471
+        },
+        {
+          "start_position": 0.7345679,
+          "end_position": 0.8271604776382446,
+          "duration_seconds": 1525,
+          "timestamp": 1526308798558
+        },
+        {
+          "start_position": 0.8271605,
+          "end_position": 0.9382715821266174,
+          "duration_seconds": 1268,
+          "timestamp": 1526323225801
+        },
+        {
+          "start_position": 0.9382716,
+          "end_position": 1,
+          "duration_seconds": 798,
+          "timestamp": 1526339415315
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "title": "Public Library and Other Stories",
+      "author": "Ali Smith",
+      "cover_image_url": "http://books.google.com/books/content?id=uOBMrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "page_count": 220,
+      "current_position": 0.33636364340782166,
+      "current_position_timestamp": 1528043569367,
+      "state": "Reading",
+      "sessions": [
+        {
+          "start_position": 0,
+          "end_position": 0.10000000149011612,
+          "duration_seconds": 1270,
+          "timestamp": 1527043570893
+        },
+        {
+          "start_position": 0.1,
+          "end_position": 0.1818181872367859,
+          "duration_seconds": 1104,
+          "timestamp": 1527476437338
+        },
+        {
+          "start_position": 0.18181819,
+          "end_position": 0.33636364340782166,
+          "duration_seconds": 2245,
+          "timestamp": 1528043569367
+        }
+      ],
+      "quotes": []
+    }
+  ],
+  "format_version": 2
+}

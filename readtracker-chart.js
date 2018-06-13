@@ -31,12 +31,7 @@ function showChart(selector, text) {
 
   var monthdayformat = d3.timeFormat('%b %e');
 
-  // fix ill-formed json: wrap it in [] and insert
-  // commas between objects, to create an array of
-  // book objects
-  if (text[0] == '{')
-    text = "[" + text.replace(/\}\{/g, "},{") + "]" 
-  var data = JSON.parse(text);
+  var data = JSON.parse(text)['books'];
 
   var books = data.map(function(d) {
     return {
